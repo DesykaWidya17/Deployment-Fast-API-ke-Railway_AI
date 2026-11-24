@@ -15,6 +15,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+# Smart uvicorn CLI wrapper that safely handles unexpanded ${PORT:-8000} strings
+RUN cp uvicorn_runner.py /usr/local/bin/uvicorn && chmod +x /usr/local/bin/uvicorn
+
 EXPOSE 8000
 
 CMD ["python", "run.py"]
