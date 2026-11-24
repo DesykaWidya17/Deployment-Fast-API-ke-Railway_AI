@@ -680,3 +680,10 @@ def get_public_document(doc_id: int, role: str = "mahasiswa"):
         "url": f"/uploads/{doc['filename']}",
         "content": full_text,
     }
+
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("app.main:app", host="0.0.0.0", port=port)
+
