@@ -1,0 +1,181 @@
+PANDUAN INTERNAL DOSEN - SISTEM PENILAIAN DAN KEBIJAKAN AKADEMIK
+Universitas Telkom - Student Service Center (SSC)
+Dokumen Rahasia - Hanya untuk Kalangan Dosen
+
+================================================================
+BAB 1: KEBIJAKAN PENILAIAN AKADEMIK
+================================================================
+
+1.1 Komponen Nilai Akhir Mahasiswa
+-----------------------------------
+Nilai akhir mahasiswa dihitung berdasarkan komponen berikut:
+- Ujian Tengah Semester (UTS) : 30%
+- Ujian Akhir Semester (UAS)  : 40%
+- Tugas dan Proyek             : 20%
+- Kehadiran dan Partisipasi    : 10%
+
+Bobot persentase ini bersifat standar dan dapat disesuaikan oleh
+masing-masing program studi dengan persetujuan Wakil Dekan Bidang
+Akademik, maksimal deviasi 10% dari standar.
+
+1.2 Konversi Nilai Angka ke Huruf
+-----------------------------------
+| Rentang Nilai | Huruf | Bobot |
+|---------------|-------|-------|
+| 85 - 100      | A     | 4.0   |
+| 80 - 84.99    | A-    | 3.7   |
+| 75 - 79.99    | B+    | 3.3   |
+| 70 - 74.99    | B     | 3.0   |
+| 65 - 69.99    | B-    | 2.7   |
+| 60 - 64.99    | C+    | 2.3   |
+| 55 - 59.99    | C     | 2.0   |
+| 50 - 54.99    | C-    | 1.7   |
+| 40 - 49.99    | D     | 1.0   |
+| 0 - 39.99     | E     | 0.0   |
+
+Mahasiswa yang mendapat nilai E dinyatakan tidak lulus dan wajib
+mengulang mata kuliah tersebut.
+
+1.3 Ketentuan Nilai Minimum Kelulusan
+---------------------------------------
+- Nilai minimum kelulusan per mata kuliah adalah C (55.00)
+- Mata kuliah inti program studi minimal nilai B (70.00)
+- Mata kuliah Tugas Akhir minimal nilai B+ (75.00)
+
+================================================================
+BAB 2: PROSEDUR REMEDIASI DAN UJIAN SUSULAN
+================================================================
+
+2.1 Ujian Susulan (Make-up Exam)
+----------------------------------
+Mahasiswa berhak mengajukan ujian susulan jika memenuhi syarat:
+a. Sakit dengan surat dokter resmi dari fasilitas kesehatan terakreditasi
+b. Keperluan dinas kampus dengan surat penugasan resmi
+c. Musibah/kondisi darurat keluarga inti dengan bukti pendukung
+
+Prosedur:
+1. Ajukan permohonan maksimal 3 hari kerja setelah ujian berlangsung
+2. Lampirkan dokumen pendukung ke SSC atau langsung ke dosen pengampu
+3. Dosen memproses dalam 5 hari kerja
+4. Ujian susulan dilaksanakan maksimal 2 minggu setelah ujian utama
+
+2.2 Nilai Remediasi
+--------------------
+Remediasi hanya berlaku untuk mata kuliah dengan nilai D atau E:
+- Nilai remediasi maksimum yang dapat diperoleh adalah C (55.00)
+- Remediasi hanya dilaksanakan sekali per semester
+- Jadwal remediasi ditentukan oleh koordinator program studi
+
+================================================================
+BAB 3: KEBIJAKAN KEHADIRAN MAHASISWA
+================================================================
+
+3.1 Persentase Kehadiran Minimum
+----------------------------------
+- Kehadiran minimum untuk mengikuti ujian: 75% dari total pertemuan
+- Mahasiswa dengan kehadiran 50%-74% mendapat nilai kehadiran 0
+  namun masih dapat mengikuti ujian
+- Mahasiswa dengan kehadiran di bawah 50% dilarang mengikuti ujian
+  dan mendapat nilai E secara otomatis
+
+3.2 Izin Ketidakhadiran yang Diakui
+--------------------------------------
+Ketidakhadiran dihitung sebagai hadir jika:
+a. Mewakili kampus dalam kegiatan resmi (dengan surat tugas)
+b. Sakit dengan surat dokter (maksimal 3 kali per semester)
+c. Kepentingan keluarga inti yang mendesak (maksimal 2 kali per semester)
+
+Dosen wajib mencatat dan memvalidasi izin dalam sistem SIAKAD
+maksimal 3 hari kerja setelah ketidakhadiran tersebut.
+
+================================================================
+BAB 4: PANDUAN KHUSUS PEMBIMBINGAN TUGAS AKHIR
+================================================================
+
+4.1 Rasio Pembimbingan
+-----------------------
+Setiap dosen maksimal membimbing 10 mahasiswa Tugas Akhir per semester.
+Dosen yang sudah memiliki 10 bimbingan aktif tidak dapat menerima
+bimbingan baru tanpa persetujuan Ketua Program Studi.
+
+4.2 Frekuensi Bimbingan Minimum
+---------------------------------
+- Bimbingan minimum: 8 kali pertemuan per semester (dokumentasi wajib)
+- Setiap bimbingan wajib didokumentasikan dalam Kartu Bimbingan Tugas Akhir
+- Mahasiswa yang tidak melakukan bimbingan selama 1 bulan berturut-turut
+  akan mendapat peringatan dari program studi
+
+4.3 Kriteria Penilaian Sidang Tugas Akhir
+-------------------------------------------
+| Aspek Penilaian             | Bobot |
+|-----------------------------|-------|
+| Kualitas Penulisan Laporan  | 30%   |
+| Kontribusi dan Orisinalitas | 25%   |
+| Presentasi dan Penyampaian  | 20%   |
+| Penguasaan Materi           | 15%   |
+| Implementasi/Eksperimen     | 10%   |
+
+Penilaian dilakukan oleh tim penguji yang terdiri dari:
+- Pembimbing Utama
+- Pembimbing Pendamping (jika ada)
+- Minimal 1 orang Dosen Penguji Independen
+
+================================================================
+BAB 5: AKSES SISTEM DAN INFORMASI RAHASIA
+================================================================
+
+5.1 Akses SIAKAD untuk Dosen
+-------------------------------
+Dosen memiliki akses ke:
+- Input nilai mahasiswa (periode input: H+7 setelah UAS)
+- Riwayat akademik mahasiswa bimbingan
+- Rekapitulasi kehadiran
+- Data mahasiswa per kelas yang diampu
+
+Dosen TIDAK memiliki akses ke:
+- Data keuangan mahasiswa
+- Data pribadi mahasiswa di luar kepentingan akademik
+- Nilai mahasiswa di kelas lain yang tidak diampu
+
+5.2 Kerahasiaan Data
+---------------------
+Semua informasi akademik mahasiswa bersifat rahasia.
+Dosen dilarang:
+a. Menyebarkan nilai mahasiswa secara terbuka di forum publik
+b. Memberikan informasi akademik mahasiswa kepada pihak ketiga tanpa izin
+c. Membahas kondisi akademik mahasiswa di media sosial
+
+Pelanggaran kebijakan ini dapat dikenai sanksi sesuai peraturan
+kepegawaian Universitas Telkom yang berlaku.
+
+================================================================
+BAB 6: PROSEDUR PENGAJUAN BEBAN KERJA DOSEN (BKD)
+================================================================
+
+6.1 Komponen BKD
+-----------------
+Beban Kerja Dosen minimum per semester adalah 12 SKS yang terdiri dari:
+- Pengajaran           : minimal 8 SKS
+- Penelitian           : minimal 2 SKS
+- Pengabdian Masyarakat: minimal 1 SKS
+- Kegiatan Penunjang   : sisanya hingga 12 SKS
+
+6.2 Deadline Pelaporan BKD
+----------------------------
+- BKD Semester Ganjil  : 31 Januari tahun berikutnya
+- BKD Semester Genap   : 31 Juli tahun berjalan
+- Keterlambatan pelaporan BKD berdampak pada pencairan tunjangan sertifikasi dosen
+
+6.3 Kontak SSC untuk Urusan Dosen
+------------------------------------
+Untuk pertanyaan terkait administrasi akademik dosen:
+- Email    : ssc-dosen@telkomuniversity.ac.id
+- Ext.     : 2222 (khusus dosen)
+- Jam layanan : Senin-Jumat, 08.00-16.00 WIB
+- Portal   : https://siakad.telkomuniversity.ac.id/dosen
+
+================================================================
+INFORMASI INI BERSIFAT RAHASIA
+Dokumen ini hanya untuk kalangan dosen Universitas Telkom.
+Dilarang disebarluaskan ke pihak yang tidak berkepentingan.
+================================================================
